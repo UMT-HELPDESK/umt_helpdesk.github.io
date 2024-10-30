@@ -1,2 +1,2 @@
-# UMT-HELPDESK.github.io
+# umt-helpdesk.github.io
 Web Repo Resources
